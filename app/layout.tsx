@@ -16,9 +16,9 @@ const geistMono = Geist_Mono({
 
 const siteUrl = new URL("https://tryslouly.app");
 const siteName = "Slouly - Music Speed Changer";
-const siteBannerURL = "/assets/banner.jpg";
+const siteBannerURL = "/assets/preview.png";
 const title = "Slouly - Music Speed Changer";
-const description = "Music Editor for Creators";
+const description = "Slow it down. Speed it up. Make it yours.";
 const keywords = [
   "slouly",
   "music",
